@@ -1,4 +1,6 @@
-*Texture pack for the Gooncave server co-created by Jaxfon and Luvgoat.*
+***Texture pack for the Gooncave server created by Jaxfon***
+
+***Textures co-created by Luvgoat and Jaxfon***
 
 Last Updated: 10/11/23
 
