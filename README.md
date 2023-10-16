@@ -2,25 +2,19 @@
 
 ***Textures co-created by Luvgoat and Jaxfon***
 
-Last Updated: 10/11/23
+Last Updated: 10/16/23
 
 ---
 
 Added/Removed Items:
 
-[+] Honey Tater
+[+] Goat Stew
 
-[+] Honey Ham
+[+] Directors Blade
 
-[+] Mystery Meat
+[+] Extramen Painting
 
-[+] Spoiled Mystery Meat
-
-[+] Sea Gem
-
-[+] Spike of Malice (Luvgoatt's Sword)
-
-[-] Fake Diamond Shovel
+[-] Test Paintings
 
 ---
 
@@ -41,6 +35,16 @@ Current Item List:
 - Sea Gem
 
 - Spike of Malice
+
+- Goat Stew
+
+- Directors Blade
+
+- Extramen Painting
+
+  
+
+
 
   
 
