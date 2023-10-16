@@ -12,7 +12,7 @@ Added/Removed Items:
 
 [+] Directors Blade
 
-[+] Extramen Painting
+[+] Watertower Painting
 
 [-] Test Paintings
 
@@ -40,7 +40,7 @@ Current Item List:
 
 - Directors Blade
 
-- Extramen Painting
+- Watertower Painting
 
   
 
